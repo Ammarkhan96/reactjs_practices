@@ -1,0 +1,7 @@
+{
+    "greeting": "Hello, Welcome!",
+    "description": {
+      "line1": "React is a free and open-source front-end <1>{{channel}}</1> library for building user interfaces.",
+      "line2": "React can be used to develop single-page, mobile, or server-rendered applications."
+    }
+}

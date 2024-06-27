@@ -1,0 +1,7 @@
+{
+    "greeting": "Bonjour, Bienvenue!",
+    "description": {
+        "line1": "React est une bibliothèque <1>{{channel}}</1> frontale gratuite et open source permettant de créer des interfaces utilisateur.",
+        "line2": "React peut être utilisé pour développer des applications d'une seule page, mobiles ou rendues par un serveur."
+      }
+}

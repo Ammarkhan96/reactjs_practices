@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learns the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 195,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Learns the basics of playing piano with our comprehensive beginner's course.",
+            "price": 325,
+            "instructor": "Aly Colli",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learns the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 195,
+            "instructor": "Dyle Kele",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learns the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 195,
+            "instructor": "John Sey",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learns the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 195,
+            "instructor": "Marko Den",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learns the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 195,
+            "instructor": "Jany Hor",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learns the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 195,
+            "instructor": "Graham Gen",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learns the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 195,
+            "instructor": "Nyle Dason",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learns the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 195,
+            "instructor": "Adam Ban",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learns the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 195,
+            "instructor": "Roye Sam",
+            "isFeatured": true,
+            "image": "/courses/guiter.jpg"
+        }
+    ]
+}
